@@ -1,0 +1,74 @@
+body {
+	background-color: #2c3e50;
+	/*background-color: #f39c12;*/
+}
+
+#title {
+	font-family: Lobster;
+	font-size: 8em;
+}
+
+#main {
+	background-color: #7f8c8d;
+	width: 27em;
+	height: 27em;
+	margin-top: 1.2em;
+}
+
+.btn {
+	width: 8em;
+	height: 8em;
+	padding: 0px;
+}
+
+#row2, #row3 {
+	margin-top: 0.2em;
+}
+
+#notification {
+	width: 20em;
+	height: 12em;
+	background-color: #34495e;
+	padding: 0.5em;
+	margin-top: -21em;
+	position: relative;
+	font-family: Lobster;
+	opacity: 0.9;
+	border-radius: 2%;
+}
+
+#oButton, #xButton {
+	width: 5em;
+	height: 5em;
+	font-family: sans-serif;
+	padding: 0px;
+}
+
+#xButton {
+	margin-right: 1em;
+}
+
+#replay {
+	width: 5em;
+	height: 5em;
+}
+
+#x {
+	font-size: 4em;
+	color: red;
+}
+
+#o {
+	font-size: 4em;
+	color: blue;
+}
+
+.X {
+	font-size: 6em;
+	color: red;
+}
+
+.O {
+	font-size: 6em;
+	color: blue;
+}
